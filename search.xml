@@ -3,6 +3,15 @@
   
     
     <entry>
+      <title>Windows下如何快速的将图片上传至图库并插入markdown</title>
+      <link href="/2018/08/21/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E5%B0%86%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E8%87%B3%E5%9B%BE%E5%BA%93%E5%B9%B6%E6%8F%92%E5%85%A5markdown/"/>
+      <url>/2018/08/21/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E5%B0%86%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E8%87%B3%E5%9B%BE%E5%BA%93%E5%B9%B6%E6%8F%92%E5%85%A5markdown/</url>
+      <content type="html"><![CDATA[<h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ul><li>markdown编辑器：<strong><a href="typora.io">Typora</a></strong></li><li>图床：<strong><a href="https://postimages.org" target="_blank" rel="noopener">postimages</a></strong></li><li>截图及图片上传工具：<a href="https://postimages.org/app" target="_blank" rel="noopener"><strong>Postimage</strong></a></li></ul><hr><h3 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h3><p>Typora是在Windows下算是相当好用的markdown编辑器，但是其在图片上传方面还是不太方便。<br>在Mac平台下，Typora是可以自动将插入的本地图片上传至云，并将markdown中的链接进行转换的。可惜暂时<em>（2018/8/21）</em>，Linux和Windows版本都还没有此功能。</p><p>不过我们可以使用postimages提供的工具来达到相似的效果。</p><p>值得注意的是，postimages疑似被墙，无法在国内打开。但是，不影响上传至postimages的图片。<br>这些图片还是可以在国内正常浏览。</p><p>Postimage也是同样疑似被墙，所以需要设置代理</p><p><img src="https://s20.postimg.cc/ezo9sow9p/image.png" alt=""></p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>myfirst</title>
       <link href="/2018/08/21/myfirst/"/>
       <url>/2018/08/21/myfirst/</url>
