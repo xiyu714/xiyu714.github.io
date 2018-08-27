@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.yisheng.science/"/>
   <updated>2018-08-21T12:53:34.441Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.yisheng.science/</id>
   
   <author>
     <name>怡生</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Windows下如何快速的将图片上传至图库并插入markdown</title>
-    <link href="http://yoursite.com/2018/08/21/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E5%B0%86%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E8%87%B3%E5%9B%BE%E5%BA%93%E5%B9%B6%E6%8F%92%E5%85%A5markdown/"/>
-    <id>http://yoursite.com/2018/08/21/Windows下如何快速的将图片上传至图库并插入markdown/</id>
+    <link href="http://www.yisheng.science/2018/08/21/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9A%84%E5%B0%86%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E8%87%B3%E5%9B%BE%E5%BA%93%E5%B9%B6%E6%8F%92%E5%85%A5markdown/"/>
+    <id>http://www.yisheng.science/2018/08/21/Windows下如何快速的将图片上传至图库并插入markdown/</id>
     <published>2018-08-21T12:33:18.000Z</published>
     <updated>2018-08-21T12:53:34.441Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>myfirst</title>
-    <link href="http://yoursite.com/2018/08/21/myfirst/"/>
-    <id>http://yoursite.com/2018/08/21/myfirst/</id>
+    <link href="http://www.yisheng.science/2018/08/21/myfirst/"/>
+    <id>http://www.yisheng.science/2018/08/21/myfirst/</id>
     <published>2018-08-21T01:32:47.000Z</published>
     <updated>2018-08-21T12:23:21.857Z</updated>
     
